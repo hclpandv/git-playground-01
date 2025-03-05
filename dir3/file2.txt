@@ -1,1 +1,2 @@
 original file2.txt text
+modified file2.txt text
